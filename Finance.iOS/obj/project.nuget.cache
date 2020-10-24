@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNAsu0GECBkSOOC8KsEw/hQLktQLXAgL2VW+F5iu7pqmI+rv/8Qv6krmdv7w/Tt9Ij4UaKPUCj0w7UNBsYdOog==",
+  "success": true,
+  "projectFilePath": "D:\\_Projects\\Finance\\Finance.iOS\\Finance.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahmu\\.nuget\\packages\\xamarin.forms\\3.1.0.697729\\xamarin.forms.3.1.0.697729.nupkg.sha512"
+  ],
+  "logs": []
+}
