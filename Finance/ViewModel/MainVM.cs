@@ -6,6 +6,7 @@ using System.Text;
 using System.Xml.Serialization;
 using Finance.Model;
 
+
 namespace Finance.ViewModel
 {
     public class MainVM : INotifyPropertyChanged
